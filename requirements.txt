@@ -1,6 +1,6 @@
 flask
 flask-cors
-tensorflow-cpu
+ai-edge-litert
 numpy
 pillow
 requests
